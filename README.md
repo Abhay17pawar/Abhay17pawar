@@ -117,4 +117,3 @@ I'm a second-year Computer Engineering student at Army Institute of Technology, 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
